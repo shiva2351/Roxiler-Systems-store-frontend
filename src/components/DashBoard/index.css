@@ -1,0 +1,11 @@
+.dash-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    border:2px solid violet;
+}
+.dash{
+    height: 100vh;
+    border:2px solid orange;
+}
